@@ -1,6 +1,11 @@
 # apple-pc-ports
 Porting PC games to iDevices
 
+# Download ports.
+
+- [Go to Releases.](https://www.genome.gov/) and click Source Code (.zip)
+- Extract your .zip
+
 # How to play ports.
 
 #### My game is a .love:
