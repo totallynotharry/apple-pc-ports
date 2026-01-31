@@ -3,7 +3,7 @@ Porting PC games to iDevices
 
 # Download ports.
 
-- [Go to Releases]([https://github.com/totallynotharry/apple-pc-ports/releases](https://github.com/totallynotharry/apple-pc-ports/releases/tag/Releases)) and click your .love
+- [Go to Releases](https://github.com/totallynotharry/apple-pc-ports/releases/tag/Releases) and click your .love
 - Extract your .zip
 
 # How to play ports.
